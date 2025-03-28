@@ -1,0 +1,2 @@
+# chatserver
+可以在nginx负载均衡环境下运用redis订阅发布进行集群跨服务器聊天
